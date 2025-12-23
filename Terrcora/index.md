@@ -1,4 +1,4 @@
-## Terrcora Setting Guide
+## Terrcora Settings Guide
 
 Paste in text of Terrcora settings guide
 v
