@@ -4,15 +4,15 @@ WELCOME to my Writing and Worldbuilding site.
 
 ## Writings
 - ### Poems
--- [Knight's Oath](https://docs.google.com/document/d/1dH9JeyhHKi26e1jPCpIAVEYI-e-Y-tVdkhdrBXd4-lc/edit?tab=t.0)
--- [Like Father, Like Son?](https://docs.google.com/document/d/17ThMDJGTqklKI_BHuN5QhCGW9j18cfIQHX98xw7MHy0/edit?tab=t.0 )
--- [Maybe Next Time](https://docs.google.com/document/d/1dH9JeyhHKi26e1jPCpIAVEYI-e-Y-tVdkhdrBXd4-lc/edit?tab=t.0)
+- [Knight's Oath](https://docs.google.com/document/d/1dH9JeyhHKi26e1jPCpIAVEYI-e-Y-tVdkhdrBXd4-lc/edit?tab=t.0)
+-  [Like Father, Like Son?](https://docs.google.com/document/d/17ThMDJGTqklKI_BHuN5QhCGW9j18cfIQHX98xw7MHy0/edit?tab=t.0)
+-   Maybe Next Time](https://docs.google.com/document/d/1dH9JeyhHKi26e1jPCpIAVEYI-e-Y-tVdkhdrBXd4-lc/edit?tab=t.0)
 - ### Stories
   -- [Stories Index](Stories/index.md)
--- [Story - 1](stories/story-1.md)
--- [To Fight a Sea Monster](https://docs.google.com/document/d/1Hm0zdkZpXzltAuPW5raRMRC5fOe-0eNA8Zl4oey9a_Y/edit?tab=t.0)
+  - [Story - 1](stories/story-1.md)
+- [To Fight a Sea Monster](https://docs.google.com/document/d/1Hm0zdkZpXzltAuPW5raRMRC5fOe-0eNA8Zl4oey9a_Y/edit?tab=t.0)
 - ### Plays/Sketches in progress
- -- [Activism](link)
+ - [Activism](link)
   
 
 ## Worldbuilding
