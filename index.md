@@ -17,7 +17,7 @@ WELCOME to my Writing and Worldbuilding site.
 
 ## Worldbuilding
 - [Terrcora Settings Guide](Terrcora/index.md)
-- [Terrcora on the World Anvil platform](https://www.worldanvil.com/terrcora-hudsonsaurus-hillaricus)
+- [Terrcora on the World Anvil platform](https://www.worldanvil.com/w/terrcora-hudsonsaurus-hillaricus)
 
 ## About
 This site is a work in progress.
