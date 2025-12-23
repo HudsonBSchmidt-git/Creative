@@ -7,7 +7,7 @@ WELCOME to my Writing and Worldbuilding site.
 - [Story 1](stories/story-1.md)
 
 ## Worldbuilding
-- [World Guide](world/index.md)
+- [Terrcora Settings Guide](Terrcora/index.md)
 - [Terrcora on the World Anvil platform](https://www.worldanvil.com/)  <!-- replace with his link -->
 
 ## About
