@@ -1,4 +1,4 @@
-# Hudson B.S.
+# Hudson B
 
 WELCOME to my Writing and Worldbuilding site.
 
