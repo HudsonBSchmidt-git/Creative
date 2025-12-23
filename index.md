@@ -10,3 +10,8 @@ Hi! I’m ___ and this is my writing + worldbuilding site.
 
 ## About
 This site is a work in progress.
+
+- [About](about.md)
+- [Stories](stories/index.md)
+- [World Guide](world/index.md)
+- [World Anvil](PASTE_WORLD_ANVIL_LINK_HERE)
