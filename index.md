@@ -11,6 +11,7 @@ WELCOME to my Writing and Worldbuilding site.
   -- [Stories Index](Stories/index.md)
   - [Story - 1](stories/story-1.md)
   - [To Fight a Sea Monster](https://docs.google.com/document/d/1Hm0zdkZpXzltAuPW5raRMRC5fOe-0eNA8Zl4oey9a_Y/edit?tab=t.0)
+  - [Creature story project](https://docs.google.com/document/d/1MotKXNYw5en3l1Bw3denSJeHk9VOur9q/edit#heading=h.gjdgxs)
 - ### Plays/Sketches in progress
   - [Activism](link)
   
