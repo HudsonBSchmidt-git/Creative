@@ -1,2 +1,2 @@
-# Creative
-Musing, writings, creations by  Hudson B.
+# Hudson B. Creative
+Musing, writings, creations by Hudson B.
