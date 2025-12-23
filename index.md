@@ -12,4 +12,4 @@ WELCOME to my Writing and Worldbuilding site.
 
 ## About
 This site is a work in progress.
-I created it to share my original fiction and worldbuilding projects.
+I created it to share my original writing and worldbuilding projects.
