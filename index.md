@@ -1,17 +1,15 @@
-# Welcome to my world
+# Hudson B.S.
 
-Hi! I’m ___ and this is my writing + worldbuilding site.
+WELCOME to my Writing and Worldbuilding site.
 
 ## Stories
+- [Stories Index](stories/index.md)
 - [Story 1](stories/story-1.md)
 
 ## Worldbuilding
-- [World Anvil world](https://www.worldanvil.com/)  <!-- replace with his link -->
+- [World Guide](world/index.md)
+- [Terrcora on the World Anvil platform](https://www.worldanvil.com/)  <!-- replace with his link -->
 
 ## About
 This site is a work in progress.
-
-- [About](about.md)
-- [Stories](stories/index.md)
-- [World Guide](world/index.md)
-- [World Anvil](PASTE_WORLD_ANVIL_LINK_HERE)
+I created it to share my original fiction and worldbuilding projects.
